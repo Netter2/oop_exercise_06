@@ -1,0 +1,40 @@
+1.Execute command "push"
+2.Execute command "pop"
+3.Execute command "top"
+4.Show stack
+5.Delete element by number
+0.Exit
+Choose option: 1
+Enter center coordinates and radius: 5 5 5
+Choose option: 1
+Enter center coordinates and radius: 3 3 3
+Choose option: 3
+----------
+A = (3,6)
+B = (5.64884,4.40841)
+C = (5.15802,0.916025)
+D = (1.68489,0.303618)
+E = (0.0291958,3.41752)
+----------
+Choose option: 2
+Choose option: 3
+----------
+A = (5,10)
+B = (9.41474,7.34736)
+C = (8.5967,1.52671)
+D = (2.80814,0.50603)
+E = (0.0486597,5.69587)
+----------
+Choose option: 4
+----------
+A = (5,10)
+B = (9.41474,7.34736)
+C = (8.5967,1.52671)
+D = (2.80814,0.50603)
+E = (0.0486597,5.69587)
+----------
+Choose option: 1
+Enter center coordinates and radius: 1 1 1
+Choose option: 5
+Enter number: 2
+Choose option: 0

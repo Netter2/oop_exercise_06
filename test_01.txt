@@ -1,0 +1,80 @@
+PS C:\Users\Кирилл\Desktop\ООП_6> g++ 1.cpp
+PS C:\Users\Кирилл\Desktop\ООП_6> .\a.exe  
+1.Execute command "push"  
+2.Execute command "pop"   
+3.Execute command "top"   
+4.Show stack
+5.Delete element by number
+0.Exit
+Choose option: 1
+Enter center coordinates and radius: 1 1 1
+Choose option: 4
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+Choose option: 1
+Enter center coordinates and radius: 2 2 2
+Choose option: 3
+----------
+A = (2,4)
+B = (3.7659,2.93894)
+C = (3.43868,0.610683)
+D = (1.12326,0.202412)
+E = (0.0194639,2.27835)
+----------
+Choose option: 2
+Choose option: 3
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+Choose option: 1
+Enter center coordinates and radius: 3 3 3
+Choose option: 1 
+Enter center coordinates and radius: 4 4 4
+Choose option: 4
+----------
+A = (4,8)
+B = (7.53179,5.87789)
+C = (6.87736,1.22137)
+D = (2.24652,0.404824)
+E = (0.0389277,4.55669)
+----------
+----------
+A = (3,6)
+B = (5.64884,4.40841)
+C = (5.15802,0.916025)
+D = (1.68489,0.303618)
+E = (0.0291958,3.41752)
+----------
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+Choose option: 5
+Enter number: 2
+Choose option: 4
+----------
+A = (3,6)
+B = (5.64884,4.40841)
+C = (5.15802,0.916025)
+D = (1.68489,0.303618)
+----------
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+Choose option: 0
